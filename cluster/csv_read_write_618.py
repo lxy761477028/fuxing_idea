@@ -17,23 +17,29 @@ def read_csv_file(path):
 
 
 def cluster_excle(path,path_answer,savepath):
-    df = pd.read_csv(path, encoding="gbk")
-    answer_df = read_csv_file(path_answer)
+    df = read_csv_file(path)
+    answer_df = pd.read_csv(path_answer, encoding="gbk")
     results = []
-    serial_number = df["xulie"]
-    serial_number_answer = answer_df["序列编号"]
-    data_list_x = df["x"]
-    data_list_y = df["y"]
-    data_list_z = df["z"]
-    data_list_mind = df["mind"]
-    data_list_maxd = df["maxd"]
-    data_answer_list = answer_df["影像结果"]
+    serial_number = df["序列编号"]
+    serial_number_answer = answer_df["xulie"]
+    # data_list_x = df["x"]
+    # data_list_y = df["y"]
+    # data_list_z = df["z"]
+    # data_list_mind = df["mind"]
+    # data_list_maxd = df["maxd"]
+    # data_answer_list = answer_df["影像结果"]
+    data_lists = df["影像结果"]
     for i in range(len(serial_number)):
-        data_x = df["x"][i]
-        data_y = df["y"][i]
-        data_z = df["z"][i]
-        data_mind = df["mind"][i]
-        data_maxd = df["maxd"][i]
+        # data_x = df["x"][i]
+        # data_y = df["y"][i]
+        # data_z = df["z"][i]
+        # data_mind = df["mind"][i]
+        # data_maxd = df["maxd"][i]
+        data_list = json.loads(data_lists[i])
+        try:
+            data_direction = json.loads(data_list["direction"])
+        except:
+            data_direction = {"x": 0, "y": 0, "z": 0}
         has_answer = 0
         answer_is_true = 0
         # data = json.loads(data_list[i])
@@ -41,24 +47,25 @@ def cluster_excle(path,path_answer,savepath):
         # print(type(data_direction))
         # print(data_direction)
         for j in range(len(serial_number_answer)):
+            data_x = answer_df["x"][j]
+            data_y = answer_df["y"][j]
+            data_z = answer_df["z"][j]
+            data_mind = answer_df["mind"][j]
+            data_maxd = answer_df["maxd"][j]
             if serial_number[i] == serial_number_answer[j]:
                 has_answer = 1
                 imgDataList = []
-                data_answer = json.loads(data_answer_list[j])
-                try:
-                    data_direction = json.loads(data_answer["direction"])
-                except:
-                    data_direction = {"x":0,"y":0,"z":0}
+                # data_answer = json.loads(data_answer_list[j])
                 answer_img_num = j + 10002
 
-                json_str = "{\"x\":%s,\"y\":%s,\"z\":%s,\"mind\":%s,\"maxd\":%s,\"direction\":\"{\"x\":0.0,\"y\":0.0,\"z\":0}\"}" % (
-                    float(data_x), float(data_y), float(data_z), float(data_mind)*multiple,
-                    float(data_maxd)*multiple)
 
-                answer_json_str = "{\"x\":%s,\"y\":%s,\"z\":%s,\"mind\":%s,\"maxd\":%s,\"direction\":\"{\"x\":%s,\"y\":%s,\"z\":%s}\"}" % (
-                    float(data_answer["x"]), float(data_answer["y"]), float(data_answer["z"]),
-                    float(data_answer["mind"]),
-                    float(data_answer["maxd"]),float(data_direction["x"]),float(data_direction["y"]),float(data_direction["z"]))
+                json_str = "{\"x\":%s,\"y\":%s,\"z\":%s,\"mind\":%s,\"maxd\":%s,\"direction\":\"{\"x\":%s,\"y\":%s,\"z\":%s}\"}" % (
+                    float(data_list["x"]), float(data_list["y"]), float(data_list["z"]),
+                    float(data_list["mind"]),
+                    float(data_list["maxd"]),float(data_direction["x"]),float(data_direction["y"]),float(data_direction["z"]))
+                answer_json_str = "{\"x\":%s,\"y\":%s,\"z\":%s,\"mind\":%s,\"maxd\":%s,\"direction\":\"{\"x\":0.0,\"y\":0.0,\"z\":0}\"}" % (
+                    float(data_x), float(data_y), float(data_z), float(data_mind) * multiple,
+                    float(data_maxd) * multiple)
 
 
                 js_answer = {
@@ -106,7 +113,7 @@ def cluster_excle(path,path_answer,savepath):
                 # yanzheng.append(f)
                 # yanzheng.append(f)
                 info = f['info']["list"][0]
-                if answer_img_num in info and abs(data_z - data_answer["z"]) <= 5:
+                if answer_img_num in info and abs(data_z - data_list["z"]) <= 5:
                     results.append(1)
                     answer_is_true = 1
                     print(1)
@@ -143,9 +150,9 @@ def cluster_excle(path,path_answer,savepath):
 
 
 #读取文件
-path_answer = r"E:\BaiduNetdiskDownload\cluster\2018_6_14\answer.csv"
-path = r"E:\BaiduNetdiskDownload\cluster\2018_6_14\noduleCls1.csv"
-savepath = r"E:\BaiduNetdiskDownload\cluster\2018_6_14\noduleCls1_answer_11.csv"
+path = r"E:\BaiduNetdiskDownload\cluster\2018_6_14\answer.csv"
+path_answer = r"E:\BaiduNetdiskDownload\cluster\2018_6_14\noduleCls1.csv"
+savepath = r"E:\BaiduNetdiskDownload\cluster\2018_6_14\noduleCls1_answer_618.csv"
 
 cluster_excle(path, path_answer, savepath)
 # df = pd.read_csv(path)
