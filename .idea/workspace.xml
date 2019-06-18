@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="857d0885-8d0e-4096-9887-acb0b1361fd5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/cluster/csv_read_write_614.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster/csv_read_write_614.py" afterDir="false" />
-    </list>
+    <list default="true" id="857d0885-8d0e-4096-9887-acb0b1361fd5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +103,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cluster" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -192,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560851235562</updated>
-      <workItem from="1560851247338" duration="2743000" />
+      <workItem from="1560851247338" duration="2831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2743000" />
+    <option name="totallyTimeSpent" value="2831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
