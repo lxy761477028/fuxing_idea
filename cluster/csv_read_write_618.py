@@ -10,7 +10,7 @@ z_size = 2  #z轴浮动大小
 multiple = 1  #半径放大倍数
 percent = 0.4  #匹配率
 
-
+#AI结果和医生标注结果匹配对调
 def read_csv_file(path):
     df = pd.read_csv(path)
     return df

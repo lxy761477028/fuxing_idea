@@ -26,6 +26,12 @@
 #
 # {'info': {'errormage': 'success', 'list': [[79], [10070]]}, 'detail': {}, 'result': True, 'code': 0}
 
-a = -1
-b = abs(a)
-print(b)
+# a = -1
+# b = abs(a)
+# print(b)
+
+
+from check import judge
+
+f = judge(82.42, 255.42, 352, 416.1624365482233, 279.06598984771574, 392, 8.1, 10.606602395939085)
+print(f)
