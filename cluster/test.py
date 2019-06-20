@@ -1,6 +1,6 @@
-# import xlwt
-# import xlrd
-# import pandas as pd
+import xlwt
+import xlrd
+import pandas as pd
 #
 # from matching import mine
 #
@@ -31,7 +31,13 @@
 # print(b)
 
 
-from check import judge
+# from check import judge
+#
+# f = judge(82.42, 255.42, 352, 416.1624365482233, 279.06598984771574, 392, 8.1, 10.606602395939085)
+# print(f)
+# path_answer = r"E:\BaiduNetdiskDownload\cluster\2018_6_14\answer.csv"
+# nd = pd.read_csv(path_answer)
+# print(type(nd))
 
-f = judge(82.42, 255.42, 352, 416.1624365482233, 279.06598984771574, 392, 8.1, 10.606602395939085)
-print(f)
+l = [0,1,2,3,4,5]
+print(len(l))

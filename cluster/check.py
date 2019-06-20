@@ -41,7 +41,7 @@ def judge(x1,y1,z1,x2,y2,z2,d1,d2):
     # iou2 = int_vol / vol2
     # return max(iou, iou2)
     print(iou)
-    if iou > 0.3:
+    if iou > 0.1:
         return True
     else:
         return False
