@@ -39,5 +39,8 @@ import pandas as pd
 # nd = pd.read_csv(path_answer)
 # print(type(nd))
 
-l = [0,1,2,3,4,5]
-print(len(l))
+# l = [0,1,2,3,4,5]
+# print(len(l))
+
+if True == 1:
+    print(True == 1)
