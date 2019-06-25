@@ -62,14 +62,14 @@ def scp(ip,username,passwd,ssh_path,local_dir):
             sftp.get(str('%s' % x), str(r'%s'% local_dir))
         else:
             for i in range(3,len(all_dir) - 1):
-                dir_list = x.split('/', 3)
-                all_dir_path = dir_list[3].split('/')
+                mak_dir = x.split('/', 3)
+                all_dir_path = mak_dir[3].split('/')
                 all_dir_path.pop(-1)
-                make_dir = '/'.join(all_dir_path)
-                local_dir = os.path.join(local_dir, make_dir)
-                print(local_dir)
-                if not os.path.exists(local_dir):
-                    os.makedirs(r'%s' % local_dir)
+                m_dir = '/'.join(all_dir_path)
+                local_filename = os.path.join(local_dir, m_dir)
+                print(local_filename)
+                if not os.path.exists(local_filename):
+                    os.makedirs(r'%s' % local_filename)
                     path_and_filename = os.path.join(local_dir, mak_dir[3])
                     sftp.get(str('%s' % x), str(r'%s' % path_and_filename))
                 else:
