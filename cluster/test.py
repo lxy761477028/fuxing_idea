@@ -10,9 +10,11 @@ import pandas as pd
 # percent = 0.4  #匹配率
 #
 # #读取文件
-# path = r"E:\first\cluster\2019_6_12\data.csv"
+path = r"E:\fuxing_idea\cluster\金标准\jinbiaozhu.csv"
 # answer_path = r"E:\first\cluster\2019_6_12\answer.csv"
-# nd = pd.read_csv(path)
+data = open(path, encoding="utf-8")
+nd = pd.read_csv(data)
+print(nd)
 # serial_number = nd["序列编号"]
 # data = nd["影像结果"]
 # print(type(nd))
@@ -41,6 +43,6 @@ import pandas as pd
 
 # l = [0,1,2,3,4,5]
 # print(len(l))
-
-if True == 1:
-    print(True == 1)
+#
+# if True == 1:
+#     print(True == 1)
