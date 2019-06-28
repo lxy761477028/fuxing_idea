@@ -1,0 +1,18 @@
+FROM alpha-prod:1.1
+MAINTAINER wangyaqi@fosun.com
+LABEL version="1.2"
+
+# https://wiki.fosun.com/pages/viewpage.action?pageId=25900610
+
+# install python-lib
+RUN pip3 install ConcurrentLogHandler==0.9.1
+
+# clean
+
+# deploy
+COPY $_MAKE_FILE_PATH/startup.sh /usr/local/bin/startup.sh
+WORKDIR $WORK_PATH
+
+# run
+ENTRYPOINT ["sh"]
+CMD ["/usr/local/bin/startup.sh"]
