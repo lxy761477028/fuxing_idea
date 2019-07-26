@@ -2,23 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857d0885-8d0e-4096-9887-acb0b1361fd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SCP/butt/.idea/butt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SCP/butt/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SCP/butt/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SCP/butt/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SCP/butt/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SCP/butt/Api/url_dispatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SCP/butt/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SCP/butt/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SCP/butt/mqListener.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SCP/butt/rabbit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SCP/butt/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butt_joint/mqListener.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql_stu/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SCP/butt/all.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SCP/butt/cmd.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alpha_route/.idea/alpha_route.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alpha_route/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alpha_route/alg/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alpha_route/alg/logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alpha_route/alg/url_dispatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alpha_route/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alpha_route/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alpha_route/log/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bijiao/2018-6-21/check1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bijiao/2018-6-21/jinbiaozhu.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bijiao/2018-6-21/noduleCls1_chonggou.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bijiao/2018-6-21/result.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bijiao/2018-6-21/金标准.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bijiao/check1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bijiao/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chonggou_csv_7_22/7_25/chonggou_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer_7_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer_7_23_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chonggou_csv_7_22/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/sousuo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/.idea/alpha_route.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/alg/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/alg/logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/alg/url_dispatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/bin/all.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/bin/cmd.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/logging.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/logging_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_gevent/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stu_url/urllib_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/my_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/fuxing_idea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fuxing_idea.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCP/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/SCP/net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCP/butt/Api/url_dispatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/SCP/butt/Api/url_dispatch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCP/butt/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/SCP/butt/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCP/butt/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/SCP/butt/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCP/butt/rabbit.py" beforeDir="false" afterPath="$PROJECT_DIR$/SCP/butt/rabbit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCP/butt/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/SCP/butt/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SCP/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/SCP/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluster/2018-6-21/noduleCls1_chonggou.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cluster/2018-6-21/noduleCls1_chonggou.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluster/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,51 +79,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SCP/butt/rabbit.py">
+        <entry file="file://$PROJECT_DIR$/bijiao/check1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SCP/butt/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mysql_stu/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SCP/butt/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="236" column="25" selection-start-line="236" selection-start-column="25" selection-end-line="236" selection-end-column="25" />
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SCP/butt/Api/url_dispatch.py">
+        <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer_7_23_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="60">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bijiao/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cluster/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
               <folding>
-                <element signature="e#0#27#0" expanded="true" />
+                <element signature="e#352#362#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,6 +135,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -92,6 +143,10 @@
     <findStrings>
       <find>Config</find>
       <find>queue_declare</find>
+      <find>ring_integration</find>
+      <find>chonggou</find>
+      <find>try:     predict.rename(columns={'coordX':'x', 'coordY': 'y', 'coordZ': 'z', 'diameter': 'd'}, inplace=True)</find>
+      <find>dicom</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,7 +164,6 @@
         <option value="$PROJECT_DIR$/cluster/chonggou_path.py" />
         <option value="$PROJECT_DIR$/cluster/center_comparison.py" />
         <option value="$PROJECT_DIR$/cluster/check.py" />
-        <option value="$PROJECT_DIR$/cluster/test.py" />
         <option value="$PROJECT_DIR$/SCP/net.py" />
         <option value="$PROJECT_DIR$/butt_joint/Dockerfile_1.2" />
         <option value="$PROJECT_DIR$/butt_joint/Dockerfile" />
@@ -117,23 +171,38 @@
         <option value="$PROJECT_DIR$/butt_joint/mqListener.py" />
         <option value="$PROJECT_DIR$/SCP/app.py" />
         <option value="$PROJECT_DIR$/SCP/butt/Api/__init__.py" />
-        <option value="$PROJECT_DIR$/SCP/butt/Api/url_dispatch.py" />
         <option value="$PROJECT_DIR$/SCP/butt/mqListener.py" />
         <option value="$PROJECT_DIR$/SCP/celeryconfig.py" />
-        <option value="$PROJECT_DIR$/SCP/test.py" />
-        <option value="$PROJECT_DIR$/SCP/butt/test.py" />
-        <option value="$PROJECT_DIR$/SCP/butt/app.py" />
-        <option value="$PROJECT_DIR$/SCP/butt/config.py" />
-        <option value="$PROJECT_DIR$/SCP/butt/rabbit.py" />
+        <option value="$PROJECT_DIR$/dir/test.py" />
+        <option value="$PROJECT_DIR$/stu_url/urllib_test.py" />
         <option value="$PROJECT_DIR$/mysql_stu/test.py" />
+        <option value="$PROJECT_DIR$/SCP/butt/config.py" />
+        <option value="$PROJECT_DIR$/SCP/butt/test.py" />
+        <option value="$PROJECT_DIR$/bijiao/test.py" />
+        <option value="$PROJECT_DIR$/SCP/test.py" />
+        <option value="$PROJECT_DIR$/SCP/butt/rabbit.py" />
+        <option value="$PROJECT_DIR$/SCP/butt/app.py" />
+        <option value="$PROJECT_DIR$/SCP/butt/Api/url_dispatch.py" />
+        <option value="$PROJECT_DIR$/cluster/test.py" />
+        <option value="$PROJECT_DIR$/SCP/butt/all.yml" />
+        <option value="$PROJECT_DIR$/SCP/butt/cmd.sh" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/untitled1/app.py" />
+        <option value="$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer.py" />
+        <option value="$PROJECT_DIR$/chonggou_csv_7_22/test.py" />
+        <option value="$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer_7_23.py" />
+        <option value="$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer_7_23_2.py" />
+        <option value="$PROJECT_DIR$/html/sousuo.html" />
+        <option value="$PROJECT_DIR$/chonggou_csv_7_22/7_25/chonggou_answer.py" />
+        <option value="$PROJECT_DIR$/bijiao/check1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2193" />
-    <option name="y" value="24" />
-    <option name="width" value="1366" />
-    <option name="height" value="990" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -148,6 +217,11 @@
               <item name="fuxing_idea" type="b2602c69:ProjectViewProjectNode" />
               <item name="fuxing_idea" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fuxing_idea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fuxing_idea" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -155,22 +229,26 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SCP/butt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chonggou_csv_7_22/7_25" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\fuxing_idea\chonggou_csv_7_22\7_25" />
+      <recent name="E:\fuxing_idea\chonggou_csv_7_22" />
       <recent name="E:\fuxing_idea\SCP\butt" />
-      <recent name="E:\fuxing_idea\SCP" />
-      <recent name="E:\fuxing_idea\cluster\金标准" />
-      <recent name="E:\fuxing_idea\cluster\2018-6-21" />
-      <recent name="E:\fuxing_idea\cluster\2019_6_20" />
+      <recent name="E:\fuxing_idea\bijiao" />
+      <recent name="E:\fuxing_idea" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -185,8 +263,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.check1">
+    <configuration name="check1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fuxing_idea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,12 +272,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SCP/butt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bijiao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SCP/butt/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bijiao/check1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +286,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="celeryconfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="chonggou_answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fuxing_idea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,12 +294,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SCP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chonggou_csv_7_22/7_25" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SCP/celeryconfig.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chonggou_csv_7_22/7_25/chonggou_answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +308,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rabbit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="chonggou_answer_7_23" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fuxing_idea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,12 +316,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SCP/butt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chonggou_csv_7_22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SCP/butt/rabbit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer_7_23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +330,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="chonggou_answer_7_23_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fuxing_idea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,12 +338,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SCP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chonggou_csv_7_22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SCP/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer_7_23_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,12 +360,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql_stu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chonggou_csv_7_22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql_stu/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chonggou_csv_7_22/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,11 +376,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.check1" />
+        <item itemvalue="Python.chonggou_answer (1)" />
+        <item itemvalue="Python.chonggou_answer_7_23_2" />
+        <item itemvalue="Python.chonggou_answer_7_23" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.celeryconfig" />
-        <item itemvalue="Python.rabbit" />
       </list>
     </recent_temporary>
   </component>
@@ -321,27 +399,57 @@
       <workItem from="1561438648895" duration="23256000" />
       <workItem from="1561610554555" duration="5000" />
       <workItem from="1561610891641" duration="596000" />
-      <workItem from="1561617441802" duration="20557000" />
+      <workItem from="1561617441802" duration="66736000" />
+      <workItem from="1562226273381" duration="14723000" />
+      <workItem from="1563505607378" duration="1093000" />
+      <workItem from="1563759095934" duration="597000" />
+      <workItem from="1563786162034" duration="21530000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_py - 2019.07.03 at 17h 29m 57s.xml">
+      <configuration name="pytest in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_py - 2019.07.03 at 17h 30m 05s.xml">
+      <configuration name="pytest in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_py - 2019.07.03 at 17h 30m 24s.xml">
+      <configuration name="pytest in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_py - 2019.07.03 at 17h 30m 27s.xml">
+      <configuration name="pytest in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_py - 2019.07.03 at 17h 30m 56s.xml">
+      <configuration name="pytest in test.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78890000" />
+    <option name="totallyTimeSpent" value="163012000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2193" y="24" width="1366" height="990" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603369" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2563966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.38273045" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.39356178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39875388" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -358,75 +466,200 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer_7_23_2.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/fuxing_idea$check.coverage" NAME="check Coverage Results" MODIFIED="1561000741306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
-    <SUITE FILE_PATH="coverage/fuxing_idea$test.coverage" NAME="test Coverage Results" MODIFIED="1561717619158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql_stu" />
     <SUITE FILE_PATH="coverage/fuxing_idea$mqListener.coverage" NAME="mqListener Coverage Results" MODIFIED="1561689701914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP/butt" />
-    <SUITE FILE_PATH="coverage/fuxing_idea$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1561708007493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP" />
     <SUITE FILE_PATH="coverage/fuxing_idea$csv_read_write_141.coverage" NAME="csv_read_write_141 Coverage Results" MODIFIED="1560851348548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
     <SUITE FILE_PATH="coverage/fuxing_idea$csv_read_write_619_fan.coverage" NAME="csv_read_write_619_fan Coverage Results" MODIFIED="1561002203437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
-    <SUITE FILE_PATH="coverage/fuxing_idea$rabbit.coverage" NAME="rabbit Coverage Results" MODIFIED="1561692628918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP/butt" />
-    <SUITE FILE_PATH="coverage/fuxing_idea$csv_read_write_618.coverage" NAME="csv_read_write_618 Coverage Results" MODIFIED="1560853574472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
-    <SUITE FILE_PATH="coverage/fuxing_idea$url_dispatch.coverage" NAME="url_dispatch Coverage Results" MODIFIED="1561538945962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP/butt/Api" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$url_dispatch.coverage" NAME="url_dispatch Coverage Results" MODIFIED="1562222832510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP/butt/Api" />
     <SUITE FILE_PATH="coverage/fuxing_idea$csv_read_write_quchong.coverage" NAME="csv_read_write_quchong Coverage Results" MODIFIED="1561000959902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
     <SUITE FILE_PATH="coverage/fuxing_idea$celeryconfig.coverage" NAME="celeryconfig Coverage Results" MODIFIED="1561703483065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1562637131079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled1" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1562223466327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP/butt" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$net.coverage" NAME="net Coverage Results" MODIFIED="1561455359103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1562146254333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bijiao" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$chonggou_answer.coverage" NAME="chonggou_answer Coverage Results" MODIFIED="1563846642679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chonggou_csv_7_22" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$check.coverage" NAME="check Coverage Results" MODIFIED="1561000741306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$test.coverage" NAME="test Coverage Results" MODIFIED="1563867831675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chonggou_csv_7_22" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$chonggou_answer_7_23.coverage" NAME="chonggou_answer_7_23 Coverage Results" MODIFIED="1563871811430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chonggou_csv_7_22" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1562553850468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$rabbit.coverage" NAME="rabbit Coverage Results" MODIFIED="1562221977565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP/butt" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$csv_read_write_618.coverage" NAME="csv_read_write_618 Coverage Results" MODIFIED="1560853574472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$urllib_test.coverage" NAME="urllib_test Coverage Results" MODIFIED="1561962851606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stu_url" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$test__3_.coverage" NAME="test (3) Coverage Results" MODIFIED="1562221364653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$chonggou_answer_7_23_2.coverage" NAME="chonggou_answer_7_23_2 Coverage Results" MODIFIED="1563872226472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chonggou_csv_7_22" />
     <SUITE FILE_PATH="coverage/fuxing_idea$csv_read_write_619.coverage" NAME="csv_read_write_619 Coverage Results" MODIFIED="1560994342252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
     <SUITE FILE_PATH="coverage/fuxing_idea$center_comparison.coverage" NAME="center_comparison Coverage Results" MODIFIED="1561017071310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
-    <SUITE FILE_PATH="coverage/fuxing_idea$net.coverage" NAME="net Coverage Results" MODIFIED="1561455359103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP" />
-    <SUITE FILE_PATH="coverage/fuxing_idea$app.coverage" NAME="app Coverage Results" MODIFIED="1561708341534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP/butt" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$chonggou_answer__1_.coverage" NAME="chonggou_answer (1) Coverage Results" MODIFIED="1564105793657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chonggou_csv_7_22/7_25" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$app.coverage" NAME="app Coverage Results" MODIFIED="1562223424903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SCP/butt" />
+    <SUITE FILE_PATH="coverage/fuxing_idea$check1.coverage" NAME="check1 Coverage Results" MODIFIED="1564108244891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bijiao" />
     <SUITE FILE_PATH="coverage/fuxing_idea$chonggou_path.coverage" NAME="chonggou_path Coverage Results" MODIFIED="1561012157417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
-    <SUITE FILE_PATH="coverage/fuxing_idea$chonggou_answer.coverage" NAME="chonggou_answer Coverage Results" MODIFIED="1561010714035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cluster" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cluster/csv_read_write.py">
+    <entry file="file://$PROJECT_DIR$/stu_url/urllib_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
+        <state relative-caret-position="-480">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/2018-6-21/jinbiaozhu.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bijiao/2018-6-21/金标准.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="74" lean-forward="true" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7047">
+          <caret line="2145" column="44" lean-forward="true" selection-start-line="2145" selection-start-column="44" selection-end-line="2145" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bijiao/2018-6-21/jinbiaozhu_check_result.csv" />
+    <entry file="file://$PROJECT_DIR$/SCP/butt/rabbit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/2018_6_14/noduleCls1.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/chonggou_answer.py">
+    <entry file="file://$PROJECT_DIR$/SCP/butt/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        <state relative-caret-position="330">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/2019_6_20/jinbiaozhu.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/chonggou_path.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/csv_read_write_618.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="64" column="42" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/csv_read_write_614.py">
+    <entry file="file://$PROJECT_DIR$/SCP/butt/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="60" column="71" selection-start-line="60" selection-start-column="68" selection-end-line="60" selection-end-column="71" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/2018-6-21/check1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SCP/butt/Api/url_dispatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SCP/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
+          <folding>
+            <element signature="e#604#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bijiao/2018-6-21/jinbiaozhu_quchong.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SCP/butt/cmd.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SCP/butt/all.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_yunfeidie/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/SCP/butt/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/butt_joint/mqListener.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/butt_joint/Dockerfile_1.2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql_stu/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled1/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cluster/csv_read_write_141.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
+        <state relative-caret-position="1890">
           <caret line="68" column="55" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="55" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -434,20 +667,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/2019_6_20/noduleCls1_chonggou.csv">
+    <entry file="file://$PROJECT_DIR$/cluster/csv_read_write_619_fan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/csv_read_write_619.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="88" column="28" lean-forward="true" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bijiao/2018-6-21/result.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/cluster/csv_read_write_quchong.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -456,175 +684,176 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/csv_read_write_619_fan.py">
+    <entry file="file://$PROJECT_DIR$/cluster/excel_read_write.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="87" column="50" selection-start-line="87" selection-start-column="41" selection-end-line="87" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/2018-6-21/noduleCls1_chonggou.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="86" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/金标准/金标准.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/2018-6-21/金标准.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="359">
+          <caret line="130" column="39" lean-forward="true" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="39" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/center_comparison.py">
+    <entry file="file://$PROJECT_DIR$/cluster/chonggou_path.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="373">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/check.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/file/v3.6_0.95_fused_ry_result_0.65.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/2018-6-21/check1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/butt_joint/docker_fix_3" />
-    <entry file="file://$PROJECT_DIR$/butt_joint/Dockerfile" />
-    <entry file="file://$PROJECT_DIR$/butt_joint/Dockerfile_1.2">
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/file/moban.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/butt_joint/Dockerfile_1.1">
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer_7_23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/sousuo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SCP/app.py" />
-    <entry file="file://$PROJECT_DIR$/SCP/butt/Api/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/SCP/net.py">
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        <state relative-caret-position="253">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
           <folding>
-            <element signature="e#42#57#0" expanded="true" />
+            <element signature="e#28#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/butt_joint/mqListener.py">
+    <entry file="file://$PROJECT_DIR$/bijiao/2018-6-21/jinbiaozhu_check_result_cube.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/file/v3.6_0.95_fused_ry_result_0.65_chonggou.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/7_25/file/syshbzh.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/7-23/answer1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/7-23/v3.6_0.95_fused_ry_result_0.65_chonggou1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/7-23/answer1_answer_2_2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/2019_6_20/jinbiaozhu_answer_621.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/2019_6_20/noduleCls1_answer_621.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bijiao/2018-6-21/jinbiaozhu.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bijiao/2018-6-21/noduleCls1_chonggou_check_result1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/7_25/chonggou_answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <caret line="17" column="29" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="17" selection-end-column="29" />
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SCP/test.py">
+    <entry file="file://$PROJECT_DIR$/cluster/chonggou_answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="64" column="3" lean-forward="true" selection-start-line="40" selection-end-line="64" selection-end-column="3" />
-          <folding>
-            <element signature="e#609#637#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SCP/celeryconfig.py">
+    <entry file="file://$PROJECT_DIR$/bijiao/2018-6-21/check1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bijiao/2018-6-21/noduleCls1_chonggou.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/chonggou_answer_7_23_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bijiao/check1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="8" />
+          <caret line="236" column="25" selection-start-line="236" selection-start-column="25" selection-end-line="236" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SCP/butt/mqListener.py">
+    <entry file="file://$PROJECT_DIR$/bijiao/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chonggou_csv_7_22/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="14" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SCP/butt/test.py">
+    <entry file="file://$PROJECT_DIR$/cluster/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="204">
+          <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#352#362#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SCP/butt/Api/url_dispatch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SCP/butt/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SCP/butt/rabbit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SCP/butt/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql_stu/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>

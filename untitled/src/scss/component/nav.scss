@@ -1,0 +1,24 @@
+@import "../base/fn";
+$ActiveBg			:#375fb0;
+.nav{
+	ul{
+		display: flex;
+	}
+	.nav-item{
+		flex:1;
+		text-align: center;
+		transition:all .25s ease 0s;
+		&:active{
+			background:$ActiveBg;
+		}
+	}
+	.on{
+		a{
+			color:#fff;
+		}
+	}
+	a{
+		display: block;
+		color:rgba(255,255,255,.7);
+	}
+}

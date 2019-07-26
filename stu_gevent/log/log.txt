@@ -1,0 +1,60 @@
+2019-07-10 16:09:10,703 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-07-10 16:09:14,769 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-10 16:09:27,795 - werkzeug - INFO - 127.0.0.1 - - [10/Jul/2019 16:09:27] "POST / HTTP/1.1" 200 -
+2019-07-10 16:33:19,848 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-07-10 16:33:20,894 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-10 16:33:28,923 - werkzeug - INFO - 127.0.0.1 - - [10/Jul/2019 16:33:28] "POST / HTTP/1.1" 200 -
+2019-07-10 17:02:00,931 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-07-10 17:02:08,894 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-07-10 17:09:35,973 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-07-11 11:03:44,672 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-07-11 11:21:35,087 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-07-11 11:22:43,137 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-07-11 11:22:45,980 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-11 11:22:47,055 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2019 11:22:47] "POST / HTTP/1.1" 200 -
+2019-07-11 11:23:16,144 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-07-11 11:24:58,932 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-07-11 11:25:02,775 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-11 11:25:03,830 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2019 11:25:03] "POST / HTTP/1.1" 200 -
+2019-07-11 11:25:04,480 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-11 11:25:05,500 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2019 11:25:05] "POST / HTTP/1.1" 200 -
+2019-07-11 11:25:08,049 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-11 11:25:09,068 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2019 11:25:09] "POST / HTTP/1.1" 200 -
+2019-07-11 11:25:09,360 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-11 11:25:10,375 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2019 11:25:10] "POST / HTTP/1.1" 200 -
+2019-07-11 11:25:12,578 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-11 11:25:13,595 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2019 11:25:13] "POST / HTTP/1.1" 200 -
+2019-07-11 11:25:13,983 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-11 11:25:15,025 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2019 11:25:15] "POST / HTTP/1.1" 200 -
+2019-07-11 11:25:18,164 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-11 11:25:19,190 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2019 11:25:19] "POST / HTTP/1.1" 200 -
+2019-07-11 11:25:19,654 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-11 11:25:20,683 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2019 11:25:20] "POST / HTTP/1.1" 200 -
+2019-07-11 11:25:30,585 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-11 11:25:31,622 - werkzeug - INFO - 127.0.0.1 - - [11/Jul/2019 11:25:31] "POST / HTTP/1.1" 200 -
+2019-07-12 09:59:27,732 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 09:59:28,873 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 09:59:28] "POST / HTTP/1.1" 200 -
+2019-07-12 10:03:52,632 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:03:53,663 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:03:53] "POST / HTTP/1.1" 200 -
+2019-07-12 10:03:54,822 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:03:55,838 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:03:55] "POST / HTTP/1.1" 200 -
+2019-07-12 10:04:38,419 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:04:39,460 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:04:39] "POST / HTTP/1.1" 200 -
+2019-07-12 10:04:40,809 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:04:41,891 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:04:41] "POST / HTTP/1.1" 200 -
+2019-07-12 10:05:51,841 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:05:52,867 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:05:52] "POST / HTTP/1.1" 200 -
+2019-07-12 10:06:24,803 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:06:25,828 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:06:25] "POST / HTTP/1.1" 200 -
+2019-07-12 10:06:58,230 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:06:59,243 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:06:59] "POST / HTTP/1.1" 200 -
+2019-07-12 10:07:00,184 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:07:01,197 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:07:01] "POST / HTTP/1.1" 200 -
+2019-07-12 10:15:36,940 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:15:37,970 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:15:37] "POST / HTTP/1.1" 200 -
+2019-07-12 10:16:24,552 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:16:25,585 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:16:25] "POST / HTTP/1.1" 200 -
+2019-07-12 10:17:18,358 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:17:19,372 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:17:19] "POST / HTTP/1.1" 200 -
+2019-07-12 10:23:28,756 - alg.url_dispatch - WARNING - ApiInput : [{'hjhj': 'hjkj'}]
+2019-07-12 10:23:29,777 - werkzeug - INFO - 127.0.0.1 - - [12/Jul/2019 10:23:29] "POST / HTTP/1.1" 200 -

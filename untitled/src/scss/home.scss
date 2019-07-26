@@ -1,0 +1,95 @@
+@import './component/nav.scss';
+
+html{
+	background:#f0f0f0;
+}
+.main{
+	margin:1rem 0 1rem 0;
+}
+.list{
+	.item{
+		padding:.3rem .2rem;
+		background:#fff;
+		&-hd{
+			display: flex;
+			align-items:center;
+		}
+		&-bd{
+			padding:.25rem 0;
+			font-size: $f36;
+		}
+		&-ft{
+			font-size: 0;
+		}
+		transition:all .25s ease 0s;
+		&:active{
+			background:#f8f8f8;
+		}
+	}
+	.iconfont{
+		padding-right:.1rem;
+		font-size: $f24;
+	}
+	.user-avatar{
+		width: .6rem;
+		height: .6rem;
+		margin-right: .1rem;
+		background:$lightGray;
+		border-radius: 50%;
+		overflow:hidden;
+	}
+	.user-name{
+		font-size: $f34;
+		line-height:1;
+	}
+	.put-top,
+	.put-good,
+	.topiclist-tab{
+		padding:0 .1rem;
+		vertical-align: middle;
+		display: inline-block;
+		margin-right: .1rem;
+		line-height:.36rem;
+		font-size: $f22;
+	}
+	.put-top{
+		color:red;
+		&:after{
+			border-color:red;
+		}
+	}
+	.put-good{
+		color:$blue;
+		&:after{
+			border-color:$blue;
+		}
+	}
+	.topiclist-tab{
+		color:$gray;
+		&:after{
+			border-color:$gray;
+		}
+	}
+	.create-at{
+		padding-top:.15rem;
+		font-size: $f24;
+		color:$gray;
+		line-height:1;
+	}
+	.replies,
+	.visits,
+	.last-active-time{
+		line-height: 1;
+		font-size: $f24;
+		color:$lightGray;
+		margin-right: .2rem;
+	}
+	.replies,
+	.visits{
+		padding-right:.2rem;
+	}
+
+	a{
+		display: block;
+	}
+}

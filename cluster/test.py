@@ -1,48 +1,109 @@
-import xlwt
-import xlrd
+# import requests
+#
+# URL = r'http://127.0.0.1:7000'
+# data = {
+#             "tenantCode": "CY",
+#             "patientUid": "fdsaf",
+#             "studyInstanceUID": "sdfasda",
+#             "url": "ewqfewqf",
+#             "diagStatus":0,
+#             "abnormal":0
+#         }
+# response = requests.post(URL, json=data)
+#
+# print(response.text)
+
+
+import sys
 import pandas as pd
-#
-# from matching import mine
-#
-# z_scope = 2   #z轴浮动次数
-# z_size = 2  #z轴浮动大小
-# multiple = 1  #半径放大倍数
-# percent = 0.4  #匹配率
-#
-# #读取文件
-path = r"E:\fuxing_idea\cluster\金标准\jinbiaozhu.csv"
-# answer_path = r"E:\first\cluster\2019_6_12\answer.csv"
-data = open(path, encoding="utf-8")
-nd = pd.read_csv(data)
-print(nd)
-# serial_number = nd["序列编号"]
-# data = nd["影像结果"]
-# print(type(nd))
-# print(data[0])
-# print(type(data[0]))
-#
-#
-# data = [{'imgNo': 78, 'imgData': '{"x":78.62,"y":303.39,"z":456.0,"mind":0.86,"maxd":2.29,"direction":"{"x":0.0,"y":0.0,"z":0}"}'}, {'imgNo': 10076, 'imgData': '{"x":425.14490005766277,"y":166.16575357076402,"z":551.0,"mind":10.210793673375278,"maxd":10.940136078616357,"direction":"{"x":14.252798148222837,"y":13.302611605007996,"z":0.0}"}'}]
-#
-# maping(data)
-#
-# {'info': {'errormage': 'success', 'list': [[79], [10070]]}, 'detail': {}, 'result': True, 'code': 0}
-
-# a = -1
-# b = abs(a)
-# print(b)
+import numpy as np
 
 
-# from check import judge
-#
-# f = judge(82.42, 255.42, 352, 416.1624365482233, 279.06598984771574, 392, 8.1, 10.606602395939085)
-# print(f)
-# path_answer = r"E:\BaiduNetdiskDownload\cluster\2018_6_14\answer.csv"
-# nd = pd.read_csv(path_answer)
-# print(type(nd))
+def judge_twocube(x1,y1,z1,x2,y2,z2,d1,d2):
+    '''iou of two 3d bboxes. bbox: [z,y,x,d]'''
+    # s = PixelSpacing
+    # xp = float(s[0])
+    # yp = float(s[1])
+    # zp = float(SliceThickness)
+    bbox1=[z1,y1,x1,d1]
+    bbox2=[z2,y2,x2,d2]
+    # zmin, zmax, ymin, ymax, xmin, xmax
+    bbox1 = [bbox1[0]-bbox1[3]/2, bbox1[0]+bbox1[3]/2,
+             bbox1[1]-bbox1[3]/2, bbox1[1]+bbox1[3]/2,
+             bbox1[2]-bbox1[3]/2, bbox1[2]+bbox1[3]/2]
+    bbox2 = [bbox2[0]-bbox2[3]/2, bbox2[0]+bbox2[3]/2,
+             bbox2[1]-bbox2[3]/2, bbox2[1]+bbox2[3]/2,
+             bbox2[2]-bbox2[3]/2, bbox2[2]+bbox2[3]/2]
+    # Intersection bbox and volume.
+    int_zmin = np.maximum(bbox1[0], bbox2[0])
+    int_zmax = np.minimum(bbox1[1], bbox2[1])
+    int_ymin = np.maximum(bbox1[2], bbox2[2])
+    int_ymax = np.minimum(bbox1[3], bbox2[3])
+    int_xmin = np.maximum(bbox1[4], bbox2[4])
+    int_xmax = np.minimum(bbox1[5], bbox2[5])
+    int_z = np.maximum(int_zmax - int_zmin, 0.)
+    int_y = np.maximum(int_ymax - int_ymin, 0.)
+    int_x = np.maximum(int_xmax - int_xmin, 0.)
+    int_vol = int_z * int_y * int_x
+    vol1 = (bbox1[1] - bbox1[0]) * (bbox1[3] - bbox1[2]) * (bbox1[5] - bbox1[4])
+    vol2 = (bbox2[1] - bbox2[0]) * (bbox2[3] - bbox2[2]) * (bbox2[5] - bbox2[4])
+    iou = float(int_vol)/(vol1+vol2-int_vol)
+    #iou = int_vol / vol1
+    #iou2 = int_vol / vol2
+    # return max(iou, iou2)
+    if iou > 0:
+        return True
+    else:return False
 
-# l = [0,1,2,3,4,5]
-# print(len(l))
-#
-# if True == 1:
-#     print(True == 1)
+
+
+def del_duplicates(dataframe):
+    col = ['uid','x','y','z','d']
+    predict = dataframe.reset_index(inplace=False)
+    predict.rename(columns = {'index':'order'},inplace=True)
+    lable = predict
+    try:     predict.rename(columns={'coordX':'x', 'coordY': 'y', 'coordZ': 'z', 'diameter': 'd'}, inplace=True)
+    except:  True
+    try:     lable.rename(columns={'coordX':'x', 'coordY': 'y', 'coordZ': 'z', 'diameter': 'd'}, inplace=True)
+    except:  True
+    predict['all_01'] = 0
+    predict['order2'] = 0
+    print('\nChecking.....')
+    for i in range(0,len(predict.uid)):
+        fenmu=len(predict.uid)
+        sys.stdout.write('\r%s%%'%round((i/fenmu*100),2))
+        sys.stdout.flush()
+        normal_pd = []
+        cod_list = []
+        tt = pd.DataFrame(lable[lable['uid'] == predict.uid[i]])
+        index_tt = tt.index
+        for j in index_tt:
+            if judge_twocube(lable.x[j],lable.y[j],lable.z[j],predict.x[i],predict.y[i],predict.z[i],lable.d[j],predict.d[i]):
+                normal_pd.append(1)
+                cod_list.append(str(lable['order'][j]))
+            else:
+                normal_pd.append(0)
+        if 1 in normal_pd:
+            all_01 = normal_pd.count(1)
+        else:
+            all_01 = normal_pd.count(0)
+        predict.loc[i,'all_01'] = all_01
+        predict.loc[i,'order2'] = '-'.join(cod_list)
+    sys.stdout.write('\r%s%%'%(100))
+    sys.stdout.flush()
+    predict = predict.drop_duplicates('order2')
+    df = pd.DataFrame(predict,columns=col)
+    return df
+
+
+def rea_csv(path, savepath):
+    df = pd.read_csv(path)
+    df = del_duplicates(df)
+    print(df)
+    df.to_csv(savepath, index=False, header=True,encoding="utf_8_sig")
+
+
+path = r"E:\fuxing_idea\bijiao\2018-6-21\jinbiaozhu.csv"
+savepath = r"E:\fuxing_idea\bijiao\2018-6-21\jinbiaozhu_quchong.csv"
+
+rea_csv(path, savepath)

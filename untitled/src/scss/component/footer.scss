@@ -1,0 +1,41 @@
+@import "../base/fn";
+
+.footer{
+	position: fixed;
+	left:0;
+	right:0;
+	bottom:0;
+	height:1rem;
+	background:rgba(255,255,255,.95);
+	.foot-nav{
+		display: flex;
+		text-align:center;
+		font-size: $f28;
+		a{
+			padding-top:.15rem;
+			display: block;
+			color:$darkGray;
+		}
+		&-item{
+			flex:1;
+			transition:all .25s ease 0s;
+			&:active{
+				background:#f8f8f8;
+			}
+		}
+		.on{
+			a{
+				color:$blue;
+			}
+			.iconfont{
+				color:$blue;
+			}
+		}
+		.iconfont{
+			line-height: 1;
+			margin:0 auto;
+			display: block;
+		}
+	}
+
+}

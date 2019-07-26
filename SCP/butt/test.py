@@ -11,11 +11,9 @@ def async(f):
 
     return wrapper
 
-
 @async
 def A():
     mqListen()
-
 
 def B():
     run_app()

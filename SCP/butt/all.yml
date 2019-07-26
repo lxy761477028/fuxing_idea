@@ -1,0 +1,12 @@
+version: '1.1'
+services:
+  alpha_api:
+    image: alpha-prod:1.1
+    restart: always
+    ports:
+      - "7000:7000"
+    container_name: alpha-prod-3.4
+    volumes:
+      - /data/liuxiangyang:/data/liuxiangyang
+    shm_size: 16G
+    command: exec python3 "test.py"

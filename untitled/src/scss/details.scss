@@ -1,0 +1,155 @@
+@import "./base/fn";
+
+.main{
+	padding:1rem .2rem;
+	background:#fff;
+
+}
+.article-header{
+	padding:.5rem 0;
+	.article-title{
+		font-size: .42rem;
+	}
+	.article-info{
+		font-size: $f24;
+		color:$gray;
+	}
+	.replies,
+	.visits{
+		margin-right: .2rem;
+	}
+	.iconfont{
+		font-size: $f28;
+		margin-right: .1rem;
+	}
+}
+
+.markdown-text{
+	font-size:$f30;
+	h1{
+		display: none;
+	}
+	p{
+		margin:.3rem 0;
+		color:#666;
+	}
+	h2{
+		margin-top:.2rem;
+		line-height:.8rem;
+		font-weight: bold;
+		font-size: $f34;
+		border-bottom: 1px solid #eee;
+	}
+	h3{
+		margin:.3rem 0;
+		font-weight: bold;
+		font-size: $f32;
+	}
+	ul{
+		margin:.3rem 0;
+	}
+	li{
+		&:before{
+			content: '';
+			margin-right: .1rem;
+			display: inline-block;
+			vertical-align: middle;
+			width: .1rem;
+			height: .1rem;
+			border-radius:50%;
+			background:#333;
+		}
+	}
+	a{
+		color:$blue;
+	}
+}
+
+.comments{
+	.comments-header{
+		font-size: $f36;
+		line-height:.9rem;
+		padding:0 .2rem;
+		span{
+			color:#666
+		}
+	}
+	.list{
+
+	}
+	.item{
+		position: relative;
+		padding:.3rem .2rem;
+	}
+	.item-body{
+		padding-left:.8rem;
+	}
+	.user-avatar{
+		position: absolute;
+		left:.2rem;
+		top:.3rem;
+		width: .6rem;
+		height: .6rem;
+		border-radius:50%;
+		overflow:hidden;
+		background:$lightGray;
+	}
+	.user-name{
+		font-size: $f32;
+		line-height:1;
+	}
+	.create-at{
+		font-size: $f24;
+		color:$gray;
+	}
+	.markdown-text{
+		padding:.2rem 0;
+		p{
+			margin:0;
+			color:#333;
+		}
+	}
+	.operation{
+		text-align: right;
+		color:#666;
+	}
+	.like,
+	.reply{
+		display: inline-block;
+		height: .8rem;
+		margin-left:.2rem;
+	}
+	.icon-fanhui{
+		position:relative;
+		top:.06rem;
+		font-size: .45rem;
+	}
+	@at-root .reply-wrapper{
+		.textarea{
+			height: 1.5rem;
+			padding:.1rem;
+			textarea{
+				width: 100%;
+				height: 100%;
+				font-size: $f28;
+			}
+		}
+		.reply-btn{
+			margin-top:.3rem;
+			text-align: right;
+			a{
+				display: inline-block;
+				width: 1rem;
+				height: .6rem;
+				line-height:.6rem;
+				color:#fff;
+				text-align: center;
+				background:$blue;
+				border-radius:.04rem;	
+			}
+		}
+	}
+	.comments-footer{
+		padding:1rem .2rem 1rem .2rem;
+	}
+}

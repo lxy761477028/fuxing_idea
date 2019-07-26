@@ -1,0 +1,82 @@
+@import "./base/fn";
+@import "./component/cell";
+
+html,body{
+	background:#f5f5f5;
+}
+
+.my{
+	padding-top:1rem;
+	.my-header{
+		margin:.8rem 0;
+	}
+	.user-avatar{
+		width: 1.5rem;
+		height: 1.5rem;
+		margin:0 auto;
+		background:$gray;
+		border-radius: 50%;
+
+	}
+	.user-name{
+		text-align: center;
+		font-size: $f36;
+		color:$blue;
+	}
+	.iconfont{
+		margin-right: .2rem;
+		color:$blue;
+	}
+	.ui-cells{
+		background:#fff
+	}
+}
+
+.messages{
+	padding-top:1rem;
+	.list{
+
+	}
+	.item{
+		position: relative;
+		padding:.3rem .2rem;
+		background:#fff;
+	}
+	.item-body{
+		padding-left:.8rem;
+	}
+	.user-avatar{
+		position: absolute;
+		left:.2rem;
+		top:.3rem;
+		width: .6rem;
+		height: .6rem;
+		border-radius:50%;
+		overflow:hidden;
+		background:$lightGray;
+	}
+	.user-name{
+		font-size: $f32;
+		line-height:1;
+	}
+	.create-at{
+		font-size: $f24;
+		color:$gray;
+	}
+	.text{
+		color:#999;
+	}
+	a{
+		color:$blue;
+	}
+	.theme{
+		font-size: $f28;
+		padding:.1rem 0 .15rem 0;
+	}
+	.markdown-text{
+		padding:.15rem;
+		font-size: $f30;
+		color:$gray;
+		background:#f5f5f5;
+	}
+}

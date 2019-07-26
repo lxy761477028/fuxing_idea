@@ -42,24 +42,37 @@ from threading import Thread
 from time import sleep
 
 
-def async(f):
-    def wrapper(*args, **kwargs):
-        thr = Thread(target=f, args=args, kwargs=kwargs)
-        thr.start()
+# def async(f):
+#     def wrapper(*args, **kwargs):
+#         thr = Thread(target=f, args=args, kwargs=kwargs)
+#         thr.start()
+#
+#     return wrapper
+#
+#
+# @async
+# def A():
+#     sleep(10)
+#     print("函数A睡了十秒钟。。。。。。")
+#     print("a function")
+#
+#
+# def B():
+#     print("b function")
+#
+#
+# A()
+# B()
 
-    return wrapper
+# dic = {"761745": "hjhjkk","87766":"90728975432897"}
+#
+# print(dic)
+# del dic["7617"]
+# print(dic)
+import pandas as pd
+path = r"E:\fuxing_idea\bijiao\2018-6-21\noduleCls1_chonggou.csv"
+pred = pd.read_csv(path, engine= 'python')
+# print(pred)
+predict=pd.DataFrame(pred)
 
-
-@async
-def A():
-    sleep(10)
-    print("函数A睡了十秒钟。。。。。。")
-    print("a function")
-
-
-def B():
-    print("b function")
-
-
-A()
-B()
+print(predict)
