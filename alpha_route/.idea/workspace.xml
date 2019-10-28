@@ -2,64 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b0ab76-5f31-4c3a-973f-fa5fd1424b90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SCP/butt/all.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SCP/butt/cmd.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/alpha_route.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alg/logic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alg/url_dispatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/check1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/jinbiaozhu.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/noduleCls1_chonggou.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/result.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/金标准.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/check1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dir/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/.idea/alpha_route.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/alg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/alg/logic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/alg/url_dispatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/logging.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/logging_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_url/urllib_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/my_app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8-21-chenchen/bijiao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/8_7/1014186_first_BS_CTA_rigid_affine_aligned.nii.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/8_7/1014186_first_BS_brain_rigid_affine_aligned.nii.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/8_7/1014186_first_BS_brainatlas_territory_elastic.nii.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/caoshisheng.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/copy_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http_serving/stu_sttp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log_analysis/caoruiting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../log_analysis/caoruiting_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stu_list/hahah.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/fuxing_idea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/fuxing_idea.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/Api/url_dispatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/Api/url_dispatch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/rabbit.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/rabbit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cluster/2018-6-21/noduleCls1_chonggou.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../cluster/2018-6-21/noduleCls1_chonggou.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cluster/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cluster/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu_gevent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stu_gevent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,12 +27,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="180">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -84,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alg/url_dispatch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="240">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -139,9 +98,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1895" />
-    <option name="y" value="74" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="183" />
+    <option name="y" value="16" />
     <option name="width" value="1421" />
     <option name="height" value="993" />
   </component>
@@ -151,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,11 +126,19 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -314,25 +280,28 @@
       <option name="presentableId" value="Default" />
       <updated>1562748320734</updated>
       <workItem from="1562748342400" duration="969000" />
+      <workItem from="1565157779303" duration="595000" />
+      <workItem from="1565745401012" duration="1197000" />
+      <workItem from="1565831828783" duration="596000" />
+      <workItem from="1565918266656" duration="593000" />
+      <workItem from="1566005152766" duration="598000" />
+      <workItem from="1566177710430" duration="598000" />
+      <workItem from="1566271260407" duration="212000" />
+      <workItem from="1566271558587" duration="597000" />
+      <workItem from="1566275363873" duration="211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="969000" />
+    <option name="totallyTimeSpent" value="6166000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="183" y="16" width="1421" height="993" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2402645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32980973" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.403946" />
@@ -340,11 +309,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32980973" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,6 +330,23 @@
     <SUITE FILE_PATH="coverage/alpha_route$app.coverage" NAME="app Coverage Results" MODIFIED="1562749298882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alg/url_dispatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -367,23 +359,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/log/all.log">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alg/url_dispatch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
   </component>
 </project>

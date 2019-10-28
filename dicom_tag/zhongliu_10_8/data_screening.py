@@ -28,9 +28,9 @@ def get_tag(dicomPath1,dicomPath2):
 
 dicomPath1 = r"E:\fuxing_idea\dicom\Li_Yan_3a85e_00274.dcm"
 
-path = r"E:\新建文件夹 (2)"
-del_path = r"E:\新建文件夹 (3)"
-save_path = r"E:\新建文件夹 (4)"
+path = r"E:\new_dir"
+del_path = r"E:\bbbb"
+onedicom_path = r"E:\aaaa"
 file_list = os.listdir(path)
 size = 30
 print(file_list)
@@ -53,7 +53,7 @@ for i in range(len(file_list)):
 
     dicom_list = os.listdir(file_path)
     dicom_path = os.path.join(file_path,dicom_list[0])
-    targetDir = os.path.join(save_path,dicom_list[0])
+    targetDir = os.path.join(onedicom_path,dicom_list[0])
 
     shutil.copy(dicom_path, targetDir)
 

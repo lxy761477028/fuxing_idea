@@ -5,28 +5,21 @@ import numpy as np
 
 dicomPath1 = r"E:\fuxing_idea\dicom\Li_Yan_3a85e_00274.dcm"
 #
-dicomPath2 = r"E:\new_dir\1002480402170216154051\1.3.12.2.1107.5.1.4.58462.30000017021514463903100003011"
+dicomPath2 = r"E:\bbbb\1002480402170216154051\1.3.12.2.1107.5.1.4.58462.30000017021514463903100003011"
 
 dcm = pydicom.dcmread(dicomPath1)  # 选择一个普通的非压缩dcm文件作为转换模板
-
 image = sitk.ReadImage(dicomPath2)
 image_array = sitk.GetArrayFromImage(image)
 np_array = np.int16(image_array)
 image_array = np.squeeze(np_array)  # 读取有压缩分段的dcm图像数据
-
 dataset = pydicom.dcmread(dicomPath2)  # 用来修改Tag，图像读写相关的tag都要改
 dcm.data_element('PixelSpacing').value = dataset.data_element('PixelSpacing').value
 dcm.data_element('RescaleIntercept').value = dataset.data_element('RescaleIntercept').value
 dcm.data_element('RescaleSlope').value = dataset.data_element('RescaleSlope').value
-
 dcm.PixelData = image_array.tobytes()
 dcm.save_as(dicomPath2)
-
-
 dcm = dicomio.read_file(dicomPath2)
-# dcm = SimpleITK.ReadImage(dicomPath)
-# data = SimpleITK.GetArrayFromImage(dcm)
-print(dcm.StationName)
+print(dcm)
 #
 # np_array = np.int16(data)
 # image_array = np.squeeze(np_array)                                  #获得图像数据

@@ -2,12 +2,16 @@ import os
 import json
 import pandas as pd
 
-path = r"E:\fuxing_idea\log_analysis\log\212\debug.log"
-savepath = r"E:\fuxing_idea\log_analysis\log\212\debug.csv"
-file = open(path)
+path1 = r"E:\fuxing_idea\log_analysis\log\20190814\debug.log.1"
+path2 = r"E:\fuxing_idea\log_analysis\log\20190814\debug.log"
+path3 = r"E:\fuxing_idea\log_analysis\log\220\debug.log"
+savepath = r"E:\fuxing_idea\log_analysis\log\20190814\debug.csv"
+file1 = open(path1)
+file2 = open(path2)
+# file3 = open(path3)
 i = 0
 msg_list = []
-for line in file:
+for line in file1:
     if i <=10000000:
         try:
             data = json.loads(line)
@@ -20,10 +24,34 @@ for line in file:
                 msg_list.append(msg)
         except:
             print(i)
-            # print(line)
-        # print(line)
-        # print(data)
-        # print(data["log_msg"])
+for line in file2:
+    if i <=10000000:
+        try:
+            data = json.loads(line)
+
+            i +=1
+            # print(i)
+            msg = data["log_msg"]
+            if msg.startswith("TimeDuration"):
+                print(msg)
+                msg_list.append(msg)
+        except:
+            print(i)
+
+# for line in file3:
+#     if i <=10000000:
+#         try:
+#             data = json.loads(line)
+#
+#             i +=1
+#             # print(i)
+#             msg = data["log_msg"]
+#             if msg.startswith("TimeDuration"):
+#                 print(msg)
+#                 msg_list.append(msg)
+#         except:
+#             print(i)
+
 print(len(msg_list))
 # type_list = []
 
