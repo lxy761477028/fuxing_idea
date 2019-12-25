@@ -2,73 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="443d5568-3c5f-492f-9723-26d761190e52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SCP/butt/all.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SCP/butt/cmd.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/.idea/alpha_route.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/alg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/alg/logic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/alg/url_dispatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/log/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/check1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/jinbiaozhu.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/noduleCls1_chonggou.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/result.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/金标准.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/check1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggou_csv_7_22/7_25/chonggou_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggou_csv_7_22/chonggou_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggou_csv_7_22/chonggou_answer_7_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggou_csv_7_22/chonggou_answer_7_23_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggou_csv_7_22/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dir/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../html/sousuo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/.idea/alpha_route.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/alg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/alg/logic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/alg/url_dispatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/bin/all.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/bin/cmd.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/logging.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/logging_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_gevent/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_url/urllib_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/my_app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/untitled1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/fuxing_idea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/fuxing_idea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/8_7/1014186_first_BS_CTA_rigid_affine_aligned.nii.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/8_7/1014186_first_BS_brain_rigid_affine_aligned.nii.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/8_7/1014186_first_BS_brainatlas_territory_elastic.nii.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/caoshisheng.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/copy_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http_serving/stu_sttp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/Api/url_dispatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/Api/url_dispatch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/rabbit.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/rabbit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cluster/2018-6-21/noduleCls1_chonggou.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../cluster/2018-6-21/noduleCls1_chonggou.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cluster/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cluster/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu_gevent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stu_gevent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="360">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -109,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="width" value="1920" />
     <option name="height" value="1040" />
   </component>
@@ -119,6 +62,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,7 +74,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,9 +155,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Flask server.untitled1" />
-      <item itemvalue="Flask server.Flask (app.py)" />
       <item itemvalue="Python.untitled1" />
+      <item itemvalue="Flask server.Flask (app.py)" />
+      <item itemvalue="Flask server.untitled1" />
     </list>
     <recent_temporary>
       <list>
@@ -237,17 +180,20 @@
       <workItem from="1562901431013" duration="1850000" />
       <workItem from="1563759038274" duration="593000" />
       <workItem from="1563786161519" duration="585000" />
+      <workItem from="1564381708085" duration="591000" />
+      <workItem from="1564389654810" duration="597000" />
+      <workItem from="1565157221567" duration="109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6731000" />
+    <option name="totallyTimeSpent" value="8028000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1040" extended-state="1" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2629032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27096775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -280,8 +226,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="360">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>

@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">检查号</Data></Cell>
+			<Cell><Data ss:Type="String">patient_uid</Data></Cell>
+			<Cell><Data ss:Type="String">patient_name</Data></Cell>
+			<Cell><Data ss:Type="String">series_instance_uid</Data></Cell>
+			<Cell><Data ss:Type="String">study_datetime</Data></Cell>
+			<Cell><Data ss:Type="String">src_position</Data></Cell>
+			<Cell><Data ss:Type="String">src_density</Data></Cell>
+			<Cell><Data ss:Type="String">src_density_type</Data></Cell>
+			<Cell><Data ss:Type="String">src_diameter</Data></Cell>
+			<Cell><Data ss:Type="String">width</Data></Cell>
+			<Cell><Data ss:Type="String">X</Data></Cell>
+			<Cell><Data ss:Type="String">Y</Data></Cell>
+			<Cell><Data ss:Type="String">coord_z</Data></Cell>
+			<Cell><Data ss:Type="String">slice_thickness</Data></Cell>
+			<Cell><Data ss:Type="String">pixel_spacing_x</Data></Cell>
+			<Cell><Data ss:Type="String">pixel_spacing_y</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-226.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">6.16</Data></Cell>
+			<Cell><Data ss:Type="String">5.75</Data></Cell>
+			<Cell><Data ss:Type="String">349.59</Data></Cell>
+			<Cell><Data ss:Type="String">295.15</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-563.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.83</Data></Cell>
+			<Cell><Data ss:Type="String">1.98</Data></Cell>
+			<Cell><Data ss:Type="String">382.84</Data></Cell>
+			<Cell><Data ss:Type="String">292.37</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-253.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">8.99</Data></Cell>
+			<Cell><Data ss:Type="String">8.5</Data></Cell>
+			<Cell><Data ss:Type="String">238.23</Data></Cell>
+			<Cell><Data ss:Type="String">295.91</Data></Cell>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-667.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.82</Data></Cell>
+			<Cell><Data ss:Type="String">3.34</Data></Cell>
+			<Cell><Data ss:Type="String">170</Data></Cell>
+			<Cell><Data ss:Type="String">338.71</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-657.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">5.22</Data></Cell>
+			<Cell><Data ss:Type="String">4.28</Data></Cell>
+			<Cell><Data ss:Type="String">106.05</Data></Cell>
+			<Cell><Data ss:Type="String">302.96</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-712.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">5.67</Data></Cell>
+			<Cell><Data ss:Type="String">4.72</Data></Cell>
+			<Cell><Data ss:Type="String">159.54</Data></Cell>
+			<Cell><Data ss:Type="String">304.52</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-422.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.78</Data></Cell>
+			<Cell><Data ss:Type="String">3.34</Data></Cell>
+			<Cell><Data ss:Type="String">124.85</Data></Cell>
+			<Cell><Data ss:Type="String">345.52</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-640.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.83</Data></Cell>
+			<Cell><Data ss:Type="String">2.41</Data></Cell>
+			<Cell><Data ss:Type="String">93.5</Data></Cell>
+			<Cell><Data ss:Type="String">258.81</Data></Cell>
+			<Cell><Data ss:Type="Number">116</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-589.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.28</Data></Cell>
+			<Cell><Data ss:Type="String">3.34</Data></Cell>
+			<Cell><Data ss:Type="String">185.3</Data></Cell>
+			<Cell><Data ss:Type="String">358.64</Data></Cell>
+			<Cell><Data ss:Type="Number">126</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-748.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">1.34</Data></Cell>
+			<Cell><Data ss:Type="String">154.78</Data></Cell>
+			<Cell><Data ss:Type="String">300.77</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-614.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">6.16</Data></Cell>
+			<Cell><Data ss:Type="String">4.28</Data></Cell>
+			<Cell><Data ss:Type="String">141.28</Data></Cell>
+			<Cell><Data ss:Type="String">271.92</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-805.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">4.66</Data></Cell>
+			<Cell><Data ss:Type="String">3.26</Data></Cell>
+			<Cell><Data ss:Type="String">110.04</Data></Cell>
+			<Cell><Data ss:Type="String">275.1</Data></Cell>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-734.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">4.28</Data></Cell>
+			<Cell><Data ss:Type="String">2.83</Data></Cell>
+			<Cell><Data ss:Type="String">149.21</Data></Cell>
+			<Cell><Data ss:Type="String">344.57</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-711.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">4.28</Data></Cell>
+			<Cell><Data ss:Type="String">3.89</Data></Cell>
+			<Cell><Data ss:Type="String">176.4</Data></Cell>
+			<Cell><Data ss:Type="String">356.86</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-745.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">4.28</Data></Cell>
+			<Cell><Data ss:Type="String">3.89</Data></Cell>
+			<Cell><Data ss:Type="String">185.44</Data></Cell>
+			<Cell><Data ss:Type="String">292.77</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000194470</Data></Cell>
+			<Cell><Data ss:Type="String">15290</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017050900021167200070932</Data></Cell>
+			<Cell><Data ss:Type="String">2017-05-12 13:47:54</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-684.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">1.34</Data></Cell>
+			<Cell><Data ss:Type="String">360.66</Data></Cell>
+			<Cell><Data ss:Type="String">358.58</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+			<Cell><Data ss:Type="String">0.66796875</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000213569</Data></Cell>
+			<Cell><Data ss:Type="String">14442</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.98842.30000017072723312678000149308</Data></Cell>
+			<Cell><Data ss:Type="String">2017-08-03 07:57:33</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-817.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">4.37</Data></Cell>
+			<Cell><Data ss:Type="String">2.91</Data></Cell>
+			<Cell><Data ss:Type="String">182.7</Data></Cell>
+			<Cell><Data ss:Type="String">211.01</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000213569</Data></Cell>
+			<Cell><Data ss:Type="String">14442</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.98842.30000017072723312678000149308</Data></Cell>
+			<Cell><Data ss:Type="String">2017-08-03 07:57:33</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-415.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.91</Data></Cell>
+			<Cell><Data ss:Type="String">2.19</Data></Cell>
+			<Cell><Data ss:Type="String">124.52</Data></Cell>
+			<Cell><Data ss:Type="String">329.53</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000213569</Data></Cell>
+			<Cell><Data ss:Type="String">14442</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.98842.30000017072723312678000149308</Data></Cell>
+			<Cell><Data ss:Type="String">2017-08-03 07:57:33</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-826.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">8.27</Data></Cell>
+			<Cell><Data ss:Type="String">1.63</Data></Cell>
+			<Cell><Data ss:Type="String">167.33</Data></Cell>
+			<Cell><Data ss:Type="String">310.35</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-670.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">3.85</Data></Cell>
+			<Cell><Data ss:Type="String">1.48</Data></Cell>
+			<Cell><Data ss:Type="String">381.01</Data></Cell>
+			<Cell><Data ss:Type="String">245.19</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-320.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">6.54</Data></Cell>
+			<Cell><Data ss:Type="String">5.32</Data></Cell>
+			<Cell><Data ss:Type="String">316.04</Data></Cell>
+			<Cell><Data ss:Type="String">308.69</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-262.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.76</Data></Cell>
+			<Cell><Data ss:Type="String">4.67</Data></Cell>
+			<Cell><Data ss:Type="String">304.51</Data></Cell>
+			<Cell><Data ss:Type="String">274.26</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-673.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">2.64</Data></Cell>
+			<Cell><Data ss:Type="String">1.98</Data></Cell>
+			<Cell><Data ss:Type="String">385.26</Data></Cell>
+			<Cell><Data ss:Type="String">348.78</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-784.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.8</Data></Cell>
+			<Cell><Data ss:Type="String">1.96</Data></Cell>
+			<Cell><Data ss:Type="String">150.88</Data></Cell>
+			<Cell><Data ss:Type="String">236.29</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-563.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.96</Data></Cell>
+			<Cell><Data ss:Type="String">3.3</Data></Cell>
+			<Cell><Data ss:Type="String">76.51</Data></Cell>
+			<Cell><Data ss:Type="String">260.4</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-657.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.8</Data></Cell>
+			<Cell><Data ss:Type="String">1.96</Data></Cell>
+			<Cell><Data ss:Type="String">408.58</Data></Cell>
+			<Cell><Data ss:Type="String">315.49</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-671.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">1.98</Data></Cell>
+			<Cell><Data ss:Type="String">1.39</Data></Cell>
+			<Cell><Data ss:Type="String">189.2</Data></Cell>
+			<Cell><Data ss:Type="String">384.62</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-189.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.8</Data></Cell>
+			<Cell><Data ss:Type="String">1.96</Data></Cell>
+			<Cell><Data ss:Type="String">240.68</Data></Cell>
+			<Cell><Data ss:Type="String">293.44</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-674.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">3.3</Data></Cell>
+			<Cell><Data ss:Type="String">2.64</Data></Cell>
+			<Cell><Data ss:Type="String">403.3</Data></Cell>
+			<Cell><Data ss:Type="String">162.73</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-441.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">5.68</Data></Cell>
+			<Cell><Data ss:Type="String">4.23</Data></Cell>
+			<Cell><Data ss:Type="String">350.47</Data></Cell>
+			<Cell><Data ss:Type="String">332.27</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-635.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">3.3</Data></Cell>
+			<Cell><Data ss:Type="String">2.31</Data></Cell>
+			<Cell><Data ss:Type="String">352.16</Data></Cell>
+			<Cell><Data ss:Type="String">406.66</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-752.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">2.8</Data></Cell>
+			<Cell><Data ss:Type="String">1.96</Data></Cell>
+			<Cell><Data ss:Type="String">414.28</Data></Cell>
+			<Cell><Data ss:Type="String">230.35</Data></Cell>
+			<Cell><Data ss:Type="Number">118</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-643.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">3.3</Data></Cell>
+			<Cell><Data ss:Type="String">2.31</Data></Cell>
+			<Cell><Data ss:Type="String">247.03</Data></Cell>
+			<Cell><Data ss:Type="String">296.86</Data></Cell>
+			<Cell><Data ss:Type="Number">115</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-637.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">17.82</Data></Cell>
+			<Cell><Data ss:Type="String">9.52</Data></Cell>
+			<Cell><Data ss:Type="String">348.56</Data></Cell>
+			<Cell><Data ss:Type="String">264.22</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-771.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">7.79</Data></Cell>
+			<Cell><Data ss:Type="String">1.98</Data></Cell>
+			<Cell><Data ss:Type="String">441.21</Data></Cell>
+			<Cell><Data ss:Type="String">257.46</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000202037</Data></Cell>
+			<Cell><Data ss:Type="String">29670</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017061300092253500065667</Data></Cell>
+			<Cell><Data ss:Type="String">2017-06-17 08:11:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-714.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">3.3</Data></Cell>
+			<Cell><Data ss:Type="String">2.31</Data></Cell>
+			<Cell><Data ss:Type="String">385.96</Data></Cell>
+			<Cell><Data ss:Type="String">161.67</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+			<Cell><Data ss:Type="String">0.66015625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000215999</Data></Cell>
+			<Cell><Data ss:Type="String">12518</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.98842.30000017080802551147800117608</Data></Cell>
+			<Cell><Data ss:Type="String">2017-08-14 08:36:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-209.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.82</Data></Cell>
+			<Cell><Data ss:Type="String">3.64</Data></Cell>
+			<Cell><Data ss:Type="String">312.81</Data></Cell>
+			<Cell><Data ss:Type="String">330.6</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000215999</Data></Cell>
+			<Cell><Data ss:Type="String">12518</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.98842.30000017080802551147800117608</Data></Cell>
+			<Cell><Data ss:Type="String">2017-08-14 08:36:56</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">37.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">3.09</Data></Cell>
+			<Cell><Data ss:Type="String">2.3</Data></Cell>
+			<Cell><Data ss:Type="String">147.47</Data></Cell>
+			<Cell><Data ss:Type="String">317.83</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000215999</Data></Cell>
+			<Cell><Data ss:Type="String">12518</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.98842.30000017080802551147800117608</Data></Cell>
+			<Cell><Data ss:Type="String">2017-08-14 08:36:56</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">-149.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.66</Data></Cell>
+			<Cell><Data ss:Type="String">3.64</Data></Cell>
+			<Cell><Data ss:Type="String">148.69</Data></Cell>
+			<Cell><Data ss:Type="String">197.03</Data></Cell>
+			<Cell><Data ss:Type="Number">109</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000215999</Data></Cell>
+			<Cell><Data ss:Type="String">12518</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.98842.30000017080802551147800117608</Data></Cell>
+			<Cell><Data ss:Type="String">2017-08-14 08:36:56</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-454.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.64</Data></Cell>
+			<Cell><Data ss:Type="String">2.91</Data></Cell>
+			<Cell><Data ss:Type="String">368.66</Data></Cell>
+			<Cell><Data ss:Type="String">273.16</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000215999</Data></Cell>
+			<Cell><Data ss:Type="String">12518</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.98842.30000017080802551147800117608</Data></Cell>
+			<Cell><Data ss:Type="String">2017-08-14 08:36:56</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-217.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">5.69</Data></Cell>
+			<Cell><Data ss:Type="String">4.66</Data></Cell>
+			<Cell><Data ss:Type="String">353.09</Data></Cell>
+			<Cell><Data ss:Type="String">273.44</Data></Cell>
+			<Cell><Data ss:Type="Number">131</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000215999</Data></Cell>
+			<Cell><Data ss:Type="String">12518</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.98842.30000017080802551147800117608</Data></Cell>
+			<Cell><Data ss:Type="String">2017-08-14 08:36:56</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-696.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">2.91</Data></Cell>
+			<Cell><Data ss:Type="String">2.19</Data></Cell>
+			<Cell><Data ss:Type="String">321.1</Data></Cell>
+			<Cell><Data ss:Type="String">291.02</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000215999</Data></Cell>
+			<Cell><Data ss:Type="String">12518</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.98842.30000017080802551147800117608</Data></Cell>
+			<Cell><Data ss:Type="String">2017-08-14 08:36:56</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-691.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.19</Data></Cell>
+			<Cell><Data ss:Type="String">1.53</Data></Cell>
+			<Cell><Data ss:Type="String">353.77</Data></Cell>
+			<Cell><Data ss:Type="String">335.82</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+			<Cell><Data ss:Type="String">0.728515625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000224794</Data></Cell>
+			<Cell><Data ss:Type="String">2879</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100077110</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-21 08:12:46</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-525.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">7.99</Data></Cell>
+			<Cell><Data ss:Type="String">7.15</Data></Cell>
+			<Cell><Data ss:Type="String">221.63</Data></Cell>
+			<Cell><Data ss:Type="String">274.31</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.71484375</Data></Cell>
+			<Cell><Data ss:Type="String">0.71484375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000224794</Data></Cell>
+			<Cell><Data ss:Type="String">2879</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100077110</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-21 08:12:46</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">-560.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.29</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+			<Cell><Data ss:Type="String">207.9</Data></Cell>
+			<Cell><Data ss:Type="String">129.87</Data></Cell>
+			<Cell><Data ss:Type="Number">205</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.71484375</Data></Cell>
+			<Cell><Data ss:Type="String">0.71484375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000224794</Data></Cell>
+			<Cell><Data ss:Type="String">2879</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100077110</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-21 08:12:46</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">-656.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.33</Data></Cell>
+			<Cell><Data ss:Type="String">2.86</Data></Cell>
+			<Cell><Data ss:Type="String">104.8</Data></Cell>
+			<Cell><Data ss:Type="String">185.96</Data></Cell>
+			<Cell><Data ss:Type="Number">200</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.71484375</Data></Cell>
+			<Cell><Data ss:Type="String">0.71484375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000224794</Data></Cell>
+			<Cell><Data ss:Type="String">2879</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100077110</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-21 08:12:46</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-462.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">8.73</Data></Cell>
+			<Cell><Data ss:Type="String">6.39</Data></Cell>
+			<Cell><Data ss:Type="String">222.58</Data></Cell>
+			<Cell><Data ss:Type="String">326.99</Data></Cell>
+			<Cell><Data ss:Type="Number">238</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.71484375</Data></Cell>
+			<Cell><Data ss:Type="String">0.71484375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-146.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.39</Data></Cell>
+			<Cell><Data ss:Type="String">2.71</Data></Cell>
+			<Cell><Data ss:Type="String">290.71</Data></Cell>
+			<Cell><Data ss:Type="String">312.14</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-429.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.39</Data></Cell>
+			<Cell><Data ss:Type="String">2.88</Data></Cell>
+			<Cell><Data ss:Type="String">355.11</Data></Cell>
+			<Cell><Data ss:Type="String">292.72</Data></Cell>
+			<Cell><Data ss:Type="Number">104</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">255.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.27</Data></Cell>
+			<Cell><Data ss:Type="String">2.29</Data></Cell>
+			<Cell><Data ss:Type="String">392.94</Data></Cell>
+			<Cell><Data ss:Type="String">332.46</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-412.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.34</Data></Cell>
+			<Cell><Data ss:Type="String">3.39</Data></Cell>
+			<Cell><Data ss:Type="String">174.8</Data></Cell>
+			<Cell><Data ss:Type="String">200.25</Data></Cell>
+			<Cell><Data ss:Type="Number">193</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-434.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.39</Data></Cell>
+			<Cell><Data ss:Type="String">2.71</Data></Cell>
+			<Cell><Data ss:Type="String">372.49</Data></Cell>
+			<Cell><Data ss:Type="String">198.45</Data></Cell>
+			<Cell><Data ss:Type="Number">190</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1481.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">7.2</Data></Cell>
+			<Cell><Data ss:Type="String">5.29</Data></Cell>
+			<Cell><Data ss:Type="String">375.43</Data></Cell>
+			<Cell><Data ss:Type="String">329.3</Data></Cell>
+			<Cell><Data ss:Type="Number">214</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-224.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.03</Data></Cell>
+			<Cell><Data ss:Type="String">1.42</Data></Cell>
+			<Cell><Data ss:Type="String">375.49</Data></Cell>
+			<Cell><Data ss:Type="String">366.59</Data></Cell>
+			<Cell><Data ss:Type="Number">211</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">-11.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">7.2</Data></Cell>
+			<Cell><Data ss:Type="String">5.04</Data></Cell>
+			<Cell><Data ss:Type="String">146.25</Data></Cell>
+			<Cell><Data ss:Type="String">156.89</Data></Cell>
+			<Cell><Data ss:Type="Number">268</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">-32.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.74</Data></Cell>
+			<Cell><Data ss:Type="String">3.32</Data></Cell>
+			<Cell><Data ss:Type="String">102.53</Data></Cell>
+			<Cell><Data ss:Type="String">217.63</Data></Cell>
+			<Cell><Data ss:Type="Number">244</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">-387.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.34</Data></Cell>
+			<Cell><Data ss:Type="String">2.71</Data></Cell>
+			<Cell><Data ss:Type="String">200.19</Data></Cell>
+			<Cell><Data ss:Type="String">139.16</Data></Cell>
+			<Cell><Data ss:Type="Number">277</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1560.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">7.9</Data></Cell>
+			<Cell><Data ss:Type="String">6.39</Data></Cell>
+			<Cell><Data ss:Type="String">435.19</Data></Cell>
+			<Cell><Data ss:Type="String">289.15</Data></Cell>
+			<Cell><Data ss:Type="Number">315</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-109.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">5.46</Data></Cell>
+			<Cell><Data ss:Type="String">3.95</Data></Cell>
+			<Cell><Data ss:Type="String">102.92</Data></Cell>
+			<Cell><Data ss:Type="String">360.95</Data></Cell>
+			<Cell><Data ss:Type="Number">281</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-300.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.88</Data></Cell>
+			<Cell><Data ss:Type="String">2.44</Data></Cell>
+			<Cell><Data ss:Type="String">169.96</Data></Cell>
+			<Cell><Data ss:Type="String">363.53</Data></Cell>
+			<Cell><Data ss:Type="Number">272</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">605.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">3.55</Data></Cell>
+			<Cell><Data ss:Type="String">3.39</Data></Cell>
+			<Cell><Data ss:Type="String">427.54</Data></Cell>
+			<Cell><Data ss:Type="String">331.26</Data></Cell>
+			<Cell><Data ss:Type="Number">287</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1147453</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017101800253958300665888</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-27 10:58:14</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">569.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">4.07</Data></Cell>
+			<Cell><Data ss:Type="String">2.71</Data></Cell>
+			<Cell><Data ss:Type="String">446.45</Data></Cell>
+			<Cell><Data ss:Type="String">310.65</Data></Cell>
+			<Cell><Data ss:Type="Number">343</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+			<Cell><Data ss:Type="String">0.677734375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-648.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.03</Data></Cell>
+			<Cell><Data ss:Type="String">2.27</Data></Cell>
+			<Cell><Data ss:Type="String">393.65</Data></Cell>
+			<Cell><Data ss:Type="String">257.55</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-202.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.27</Data></Cell>
+			<Cell><Data ss:Type="String">1.59</Data></Cell>
+			<Cell><Data ss:Type="String">322.38</Data></Cell>
+			<Cell><Data ss:Type="String">315.21</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-45.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.03</Data></Cell>
+			<Cell><Data ss:Type="String">2.27</Data></Cell>
+			<Cell><Data ss:Type="String">377.57</Data></Cell>
+			<Cell><Data ss:Type="String">314.58</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-551.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">2.27</Data></Cell>
+			<Cell><Data ss:Type="String">1.59</Data></Cell>
+			<Cell><Data ss:Type="String">150.74</Data></Cell>
+			<Cell><Data ss:Type="String">208.52</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-597.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.03</Data></Cell>
+			<Cell><Data ss:Type="String">2.27</Data></Cell>
+			<Cell><Data ss:Type="String">386.85</Data></Cell>
+			<Cell><Data ss:Type="String">249.51</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-465.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">5.92</Data></Cell>
+			<Cell><Data ss:Type="String">4.29</Data></Cell>
+			<Cell><Data ss:Type="String">417.1</Data></Cell>
+			<Cell><Data ss:Type="String">248.14</Data></Cell>
+			<Cell><Data ss:Type="Number">111</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-500.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.42</Data></Cell>
+			<Cell><Data ss:Type="String">3.03</Data></Cell>
+			<Cell><Data ss:Type="String">384.94</Data></Cell>
+			<Cell><Data ss:Type="String">204.4</Data></Cell>
+			<Cell><Data ss:Type="Number">114</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-532.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.22</Data></Cell>
+			<Cell><Data ss:Type="String">2.25</Data></Cell>
+			<Cell><Data ss:Type="String">146.82</Data></Cell>
+			<Cell><Data ss:Type="String">268.32</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-132.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.44</Data></Cell>
+			<Cell><Data ss:Type="String">3.79</Data></Cell>
+			<Cell><Data ss:Type="String">389.87</Data></Cell>
+			<Cell><Data ss:Type="String">268.15</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-581.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.22</Data></Cell>
+			<Cell><Data ss:Type="String">2.25</Data></Cell>
+			<Cell><Data ss:Type="String">422.12</Data></Cell>
+			<Cell><Data ss:Type="String">265.13</Data></Cell>
+			<Cell><Data ss:Type="Number">106</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0000225030</Data></Cell>
+			<Cell><Data ss:Type="String">21536</Data></Cell>
+			<Cell><Data ss:Type="String">Anonymized</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.67176.30000017091500023910100092963</Data></Cell>
+			<Cell><Data ss:Type="String">2017-09-22 09:37:37</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-254.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.27</Data></Cell>
+			<Cell><Data ss:Type="String">1.59</Data></Cell>
+			<Cell><Data ss:Type="String">89.39</Data></Cell>
+			<Cell><Data ss:Type="String">254.21</Data></Cell>
+			<Cell><Data ss:Type="Number">169</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+			<Cell><Data ss:Type="String">0.7578125</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-509.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1.99</Data></Cell>
+			<Cell><Data ss:Type="String">1.39</Data></Cell>
+			<Cell><Data ss:Type="String">190.79</Data></Cell>
+			<Cell><Data ss:Type="String">302.51</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">24.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.77</Data></Cell>
+			<Cell><Data ss:Type="String">4.44</Data></Cell>
+			<Cell><Data ss:Type="String">323.82</Data></Cell>
+			<Cell><Data ss:Type="String">303.14</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">25.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.81</Data></Cell>
+			<Cell><Data ss:Type="String">2.39</Data></Cell>
+			<Cell><Data ss:Type="String">287.77</Data></Cell>
+			<Cell><Data ss:Type="String">293.93</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">369.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.75</Data></Cell>
+			<Cell><Data ss:Type="String">3.31</Data></Cell>
+			<Cell><Data ss:Type="String">392.21</Data></Cell>
+			<Cell><Data ss:Type="String">328.67</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">158.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.31</Data></Cell>
+			<Cell><Data ss:Type="String">2.32</Data></Cell>
+			<Cell><Data ss:Type="String">351.42</Data></Cell>
+			<Cell><Data ss:Type="String">143.16</Data></Cell>
+			<Cell><Data ss:Type="Number">137</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-470.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.6</Data></Cell>
+			<Cell><Data ss:Type="String">3.75</Data></Cell>
+			<Cell><Data ss:Type="String">182.21</Data></Cell>
+			<Cell><Data ss:Type="String">156.67</Data></Cell>
+			<Cell><Data ss:Type="Number">182</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1680.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">6.62</Data></Cell>
+			<Cell><Data ss:Type="String">5.96</Data></Cell>
+			<Cell><Data ss:Type="String">371.87</Data></Cell>
+			<Cell><Data ss:Type="String">304.24</Data></Cell>
+			<Cell><Data ss:Type="Number">219</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">7.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">7.16</Data></Cell>
+			<Cell><Data ss:Type="String">7.04</Data></Cell>
+			<Cell><Data ss:Type="String">154.86</Data></Cell>
+			<Cell><Data ss:Type="String">104</Data></Cell>
+			<Cell><Data ss:Type="Number">254</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">-129.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.63</Data></Cell>
+			<Cell><Data ss:Type="String">4.24</Data></Cell>
+			<Cell><Data ss:Type="String">104.04</Data></Cell>
+			<Cell><Data ss:Type="String">163.54</Data></Cell>
+			<Cell><Data ss:Type="Number">233</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">-274.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.31</Data></Cell>
+			<Cell><Data ss:Type="String">1.99</Data></Cell>
+			<Cell><Data ss:Type="String">166.74</Data></Cell>
+			<Cell><Data ss:Type="String">143.97</Data></Cell>
+			<Cell><Data ss:Type="Number">249</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-229.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.81</Data></Cell>
+			<Cell><Data ss:Type="String">1.97</Data></Cell>
+			<Cell><Data ss:Type="String">369.12</Data></Cell>
+			<Cell><Data ss:Type="String">343.53</Data></Cell>
+			<Cell><Data ss:Type="Number">219</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.9</Data></Cell>
+			<Cell><Data ss:Type="String">3.75</Data></Cell>
+			<Cell><Data ss:Type="String">85.28</Data></Cell>
+			<Cell><Data ss:Type="String">295.93</Data></Cell>
+			<Cell><Data ss:Type="Number">292</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">502.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">3.87</Data></Cell>
+			<Cell><Data ss:Type="String">2.81</Data></Cell>
+			<Cell><Data ss:Type="String">425.27</Data></Cell>
+			<Cell><Data ss:Type="String">302.59</Data></Cell>
+			<Cell><Data ss:Type="Number">292</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-487.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">3.97</Data></Cell>
+			<Cell><Data ss:Type="String">3.31</Data></Cell>
+			<Cell><Data ss:Type="String">213.53</Data></Cell>
+			<Cell><Data ss:Type="String">226.99</Data></Cell>
+			<Cell><Data ss:Type="Number">323</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">291.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.31</Data></Cell>
+			<Cell><Data ss:Type="String">2.32</Data></Cell>
+			<Cell><Data ss:Type="String">390.33</Data></Cell>
+			<Cell><Data ss:Type="String">262.46</Data></Cell>
+			<Cell><Data ss:Type="Number">332</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1667.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">7.72</Data></Cell>
+			<Cell><Data ss:Type="String">6.25</Data></Cell>
+			<Cell><Data ss:Type="String">435.95</Data></Cell>
+			<Cell><Data ss:Type="String">256.73</Data></Cell>
+			<Cell><Data ss:Type="Number">318</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">544.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.31</Data></Cell>
+			<Cell><Data ss:Type="String">2.32</Data></Cell>
+			<Cell><Data ss:Type="String">446.78</Data></Cell>
+			<Cell><Data ss:Type="String">276.49</Data></Cell>
+			<Cell><Data ss:Type="Number">349</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-472.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">3.31</Data></Cell>
+			<Cell><Data ss:Type="String">2.32</Data></Cell>
+			<Cell><Data ss:Type="String">115.58</Data></Cell>
+			<Cell><Data ss:Type="String">320.54</Data></Cell>
+			<Cell><Data ss:Type="Number">375</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">-34.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.75</Data></Cell>
+			<Cell><Data ss:Type="String">3.31</Data></Cell>
+			<Cell><Data ss:Type="String">318.36</Data></Cell>
+			<Cell><Data ss:Type="String">335.83</Data></Cell>
+			<Cell><Data ss:Type="Number">383</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711090071</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017110410590937800314411</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-09 09:27:47</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">5.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.62</Data></Cell>
+			<Cell><Data ss:Type="String">3.31</Data></Cell>
+			<Cell><Data ss:Type="String">424.38</Data></Cell>
+			<Cell><Data ss:Type="String">315.96</Data></Cell>
+			<Cell><Data ss:Type="Number">363</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+			<Cell><Data ss:Type="String">0.662109375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-11.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.65</Data></Cell>
+			<Cell><Data ss:Type="String">3.32</Data></Cell>
+			<Cell><Data ss:Type="String">323.87</Data></Cell>
+			<Cell><Data ss:Type="String">298.99</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-141.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.82</Data></Cell>
+			<Cell><Data ss:Type="String">1.97</Data></Cell>
+			<Cell><Data ss:Type="String">288.65</Data></Cell>
+			<Cell><Data ss:Type="String">296.41</Data></Cell>
+			<Cell><Data ss:Type="Number">110</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">290.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.28</Data></Cell>
+			<Cell><Data ss:Type="String">2.3</Data></Cell>
+			<Cell><Data ss:Type="String">394.68</Data></Cell>
+			<Cell><Data ss:Type="String">319.59</Data></Cell>
+			<Cell><Data ss:Type="Number">106</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">122.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">3.27</Data></Cell>
+			<Cell><Data ss:Type="String">2.29</Data></Cell>
+			<Cell><Data ss:Type="String">336.66</Data></Cell>
+			<Cell><Data ss:Type="String">145</Data></Cell>
+			<Cell><Data ss:Type="Number">167</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-410.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.22</Data></Cell>
+			<Cell><Data ss:Type="String">3.87</Data></Cell>
+			<Cell><Data ss:Type="String">170.82</Data></Cell>
+			<Cell><Data ss:Type="String">176.8</Data></Cell>
+			<Cell><Data ss:Type="Number">205</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">-232.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.45</Data></Cell>
+			<Cell><Data ss:Type="String">2.82</Data></Cell>
+			<Cell><Data ss:Type="String">371.98</Data></Cell>
+			<Cell><Data ss:Type="String">179.39</Data></Cell>
+			<Cell><Data ss:Type="Number">204</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1644.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">6.84</Data></Cell>
+			<Cell><Data ss:Type="String">5.35</Data></Cell>
+			<Cell><Data ss:Type="String">370.93</Data></Cell>
+			<Cell><Data ss:Type="String">311.58</Data></Cell>
+			<Cell><Data ss:Type="Number">234</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">-21.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">7.18</Data></Cell>
+			<Cell><Data ss:Type="String">6.64</Data></Cell>
+			<Cell><Data ss:Type="String">139.74</Data></Cell>
+			<Cell><Data ss:Type="String">131.56</Data></Cell>
+			<Cell><Data ss:Type="Number">278</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">-136.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.6</Data></Cell>
+			<Cell><Data ss:Type="String">3.32</Data></Cell>
+			<Cell><Data ss:Type="String">94.67</Data></Cell>
+			<Cell><Data ss:Type="String">193.1</Data></Cell>
+			<Cell><Data ss:Type="Number">254</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">-432.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.25</Data></Cell>
+			<Cell><Data ss:Type="String">3.32</Data></Cell>
+			<Cell><Data ss:Type="String">195.37</Data></Cell>
+			<Cell><Data ss:Type="String">116.47</Data></Cell>
+			<Cell><Data ss:Type="Number">288</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-64.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">5.52</Data></Cell>
+			<Cell><Data ss:Type="String">2.97</Data></Cell>
+			<Cell><Data ss:Type="String">84.89</Data></Cell>
+			<Cell><Data ss:Type="String">329.16</Data></Cell>
+			<Cell><Data ss:Type="Number">302</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">550.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">3.62</Data></Cell>
+			<Cell><Data ss:Type="String">3.32</Data></Cell>
+			<Cell><Data ss:Type="String">422.06</Data></Cell>
+			<Cell><Data ss:Type="String">312.84</Data></Cell>
+			<Cell><Data ss:Type="Number">309</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-502.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.82</Data></Cell>
+			<Cell><Data ss:Type="String">1.97</Data></Cell>
+			<Cell><Data ss:Type="String">203.54</Data></Cell>
+			<Cell><Data ss:Type="String">252.1</Data></Cell>
+			<Cell><Data ss:Type="Number">342</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1657.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">7.74</Data></Cell>
+			<Cell><Data ss:Type="String">6.26</Data></Cell>
+			<Cell><Data ss:Type="String">429.99</Data></Cell>
+			<Cell><Data ss:Type="String">269.34</Data></Cell>
+			<Cell><Data ss:Type="Number">338</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">572.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.32</Data></Cell>
+			<Cell><Data ss:Type="String">2.32</Data></Cell>
+			<Cell><Data ss:Type="String">439.26</Data></Cell>
+			<Cell><Data ss:Type="String">291.22</Data></Cell>
+			<Cell><Data ss:Type="Number">367</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">-42.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.65</Data></Cell>
+			<Cell><Data ss:Type="String">3.32</Data></Cell>
+			<Cell><Data ss:Type="String">163.58</Data></Cell>
+			<Cell><Data ss:Type="String">367.09</Data></Cell>
+			<Cell><Data ss:Type="Number">345</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">8.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3.76</Data></Cell>
+			<Cell><Data ss:Type="String">2.82</Data></Cell>
+			<Cell><Data ss:Type="String">315.94</Data></Cell>
+			<Cell><Data ss:Type="String">356.98</Data></Cell>
+			<Cell><Data ss:Type="Number">395</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1711280130</Data></Cell>
+			<Cell><Data ss:Type="String">3003152876</Data></Cell>
+			<Cell><Data ss:Type="String">Zhou^GuangHua</Data></Cell>
+			<Cell><Data ss:Type="String">1.3.12.2.1107.5.1.4.73757.30000017112409335698200182465</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-28 11:11:20</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">24.0000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4.38</Data></Cell>
+			<Cell><Data ss:Type="String">3.32</Data></Cell>
+			<Cell><Data ss:Type="String">420.44</Data></Cell>
+			<Cell><Data ss:Type="String">330.94</Data></Cell>
+			<Cell><Data ss:Type="Number">378</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+			<Cell><Data ss:Type="String">0.6640625</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

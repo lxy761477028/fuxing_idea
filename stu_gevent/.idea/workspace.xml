@@ -2,73 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21b19c28-0d15-4354-b86d-bf5f8067a351" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SCP/butt/all.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SCP/butt/cmd.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/.idea/alpha_route.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/alg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/alg/logic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/alg/url_dispatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../alpha_route/log/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/check1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/jinbiaozhu.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/noduleCls1_chonggou.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/result.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/2018-6-21/金标准.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/check1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bijiao/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggou_csv_7_22/7_25/chonggou_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggou_csv_7_22/chonggou_answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggou_csv_7_22/chonggou_answer_7_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggou_csv_7_22/chonggou_answer_7_23_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chonggou_csv_7_22/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dir/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../html/sousuo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/alpha_route.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alg/logic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alg/url_dispatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/all.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/cmd.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stu_url/urllib_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/my_app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/fuxing_idea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/fuxing_idea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/8_7/1014186_first_BS_CTA_rigid_affine_aligned.nii.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/8_7/1014186_first_BS_brain_rigid_affine_aligned.nii.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/8_7/1014186_first_BS_brainatlas_territory_elastic.nii.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/caoshisheng.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beifen/copy_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../http_serving/stu_sttp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/Api/url_dispatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/Api/url_dispatch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/rabbit.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/rabbit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/butt/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/butt/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SCP/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SCP/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cluster/2018-6-21/noduleCls1_chonggou.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../cluster/2018-6-21/noduleCls1_chonggou.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cluster/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cluster/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="270">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -302,17 +245,20 @@
       <workItem from="1562749718992" duration="9132000" />
       <workItem from="1563758940473" duration="591000" />
       <workItem from="1563786130932" duration="1179000" />
+      <workItem from="1564381671773" duration="587000" />
+      <workItem from="1564389623593" duration="594000" />
+      <workItem from="1565157159144" duration="365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51315000" />
+    <option name="totallyTimeSpent" value="52861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1359275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1401919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -459,8 +405,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="270">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
